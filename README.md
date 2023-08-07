@@ -5,10 +5,11 @@ This is a series of verilog projects completed with respect to Intel's Quartus P
 This series will include:
 1. Serial FIR Filter
 2. Parallel FIR Filter
-3. UART Communication protocol
-4. Soda Despenser machine
+3. Soda Despenser machine
+4. Laser based distance measure
 5. FIFO implementation and 7-segment display.
 6. FFT algorithm
 7. PWM Generator
 8. AES encryption and decryption Algorithm
 9. I2C Communication Protocol
+10. UART Communication protocol
