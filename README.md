@@ -7,9 +7,9 @@ This series will include:
 2. Parallel FIR Filter
 3. Soda Despenser machine
 4. Laser based distance measure
-5. FIFO implementation and 7-segment display. ~
+5. UART Communication protocol ~
 6. FFT algorithm ~
 7. PWM Generator ~
 8. AES encryption and decryption Algorithm ~
 9. I2C Communication Protocol ~
-10. UART Communication protocol ~
+10. FIFO implementation and 7-segment display. ~
